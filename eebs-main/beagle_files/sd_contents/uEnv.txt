@@ -1,0 +1,1 @@
+uenvcmd=mmcinfo;fatload mmc 0 81000000 ifs-ti-am335x-beaglebone.bin; go 81000000
